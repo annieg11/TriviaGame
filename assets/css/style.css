@@ -1,0 +1,100 @@
+ body{
+    background: url("http://static.vecteezy.com/system/resources/previews/000/107/437/original/vector-free-space-seamless-pattern-background-illustration.jpg")}
+  .container{
+    background-color:lightblue;
+    color:black;
+    border:4px solid red;
+    font-size:50px;
+    font-style:italic;
+    font-weight: bold; 
+    margin-top:100px;
+    margin-bottom:50px;
+    height:700px;
+    width:90%; 
+    margin-left:70px   
+   }
+   .heading{
+    text-align: center;
+    padding-top: 20px;
+    font-size:60px;
+    font-family:'Georgia','Arial';
+    background-image:url("http://media-cache-ec0.pinimg.com/736x/3f/fe/55/3ffe55011b5b1ffd017a16a487df7e05.jpg");
+   }
+   
+    
+  }
+  #timeDisplay{
+    background-color:orange;
+    font-style: bold;
+    margin-top:10px;
+    font-size:30px;
+    height:50px;
+    width:400px;
+    margin-left:350px;
+    padding-top: 10px;
+  }
+  .character{
+    width:100%;
+    height:650px; 
+    color:black;
+    font-size:20px;
+    text-align: center;
+    margin-top: 50px; 
+    margin-left:20px;
+    margin-right:100px;
+    
+  }
+  .timeleft{
+    text-align: center;
+    color:blue;
+    padding-top:30px;
+  }
+  .startButton{
+    background-color:lightgreen;
+    color:black;
+    font-size:30px;
+    padding-top:10px;
+    text-align: center;
+    border:5px solid blue;
+    margin:50px;
+    margin-left:450px;
+    height:100px;
+    width:400px;
+    font:bolder;
+  }
+  .question {
+    font-family:serif;
+    font-size:1em;
+    width: 90%;
+    height: auto;
+    margin: auto;
+    background-color:#dddddd;
+    margin-top: 100px;
+    text-align: center;
+}
+.Message {
+    background-color:lightgreen;
+    width: 40%;
+    margin: auto;
+    text-align: center;
+    margin-top:200px;
+    font-family: serif;
+    color: red;
+}
+.choiceList {
+    font-family:serif;
+    color: blueviolet;
+    text-align:center;
+
+
+}
+.result {
+    width: 30%;
+    height: auto;
+    border-radius: 6px;
+    background-color: linen;
+    margin: auto;
+    text-align: center;
+    font-family: serif;}
+  
+  
